@@ -21,3 +21,5 @@ ID in this case is 3
 In case of diamond coordonates should be given in form : x1 y1 x2 y2 x3 y3 x4 y4
 ID in this case is 4
 
+Test file is attached(quadtree.in).
+
