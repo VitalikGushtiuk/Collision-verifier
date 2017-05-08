@@ -1,6 +1,6 @@
 # Collision-verifier
-Application to verify collisions between geometric figures in 2D using QuadTree
-App is written in java and implements data structure QuadTree.QuadTree is the tree in which each node has 4 children. As an input program receives dimension of 2D plan.
+Application to verify collisions between geometric figures in 2D using QuadTree.
+App is written in java and implements QuadTree data structure.QuadTree is the tree in which each node has 4 children. As an input program receives dimension of 2D plan.
 It supports 4 main functionalities :
 1) Insertion in QuadTree. Ex: 11 figure_type ID coordonates
 2) Delete from QuadTree. Ex: 22 ID
