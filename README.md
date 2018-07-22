@@ -12,7 +12,7 @@ Application is able to analize collisions between circles, rectangles, diamonds 
 In case of rectangle coordonates should be given in form : x1 y1 x2 y2
 ID in this case is 1
 
-In case of triangle coordonates should be given in form : x1 y1 x2 y2 x3 y1
+In case of triangle coordonates should be given in form : x1 y1 x2 y2 x3 y3
 ID in this case is 2
 
 In case of circle coordonates should be given in form : Radius x y 
